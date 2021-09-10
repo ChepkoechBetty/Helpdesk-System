@@ -1,0 +1,104 @@
+15-02-2020 12:07 22 : Start Sync
+15-02-2020 12:08 58 : Service started...
+15-02-2020 12:08 58 : Service runs after every (1) Minutes...
+15-02-2020 12:10 15 : Error sending mails: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+15-02-2020 12:10 16 : Database Opened Successfully.
+15-02-2020 12:10 16 : Start Sync
+15-02-2020 12:11 38 : Database Opened Successfully.
+15-02-2020 12:11 54 : Start Sync
+15-02-2020 12:29 21 : Service started...
+15-02-2020 12:29 21 : Service runs after every (1) Minutes...
+15-02-2020 12:29 21 : Database Opened Successfully.
+15-02-2020 12:29 21 : Start Sync
+15-02-2020 12:29 39 : Error sending mails: Object reference not set to an instance of an object.
+15-02-2020 12:30 25 : Service started...
+15-02-2020 12:30 25 : Service runs after every (1) Minutes...
+15-02-2020 12:30 25 : Database Opened Successfully.
+15-02-2020 12:30 25 : Start Sync
+15-02-2020 12:30 58 : Error sending mails: Object reference not set to an instance of an object.
+15-02-2020 12:31 25 : Database Opened Successfully.
+15-02-2020 12:31 25 : Start Sync
+15-02-2020 12:33 10 : Service started...
+15-02-2020 12:33 10 : Service runs after every (1) Minutes...
+15-02-2020 12:33 11 : Database Opened Successfully.
+15-02-2020 12:33 11 : Start Sync
+15-02-2020 12:36 15 : Error sending mails: Object reference not set to an instance of an object.
+15-02-2020 12:36 15 : Database Opened Successfully.
+15-02-2020 12:36 17 : Start Sync
+15-02-2020 12:36 17 : Error sending mails: Object reference not set to an instance of an object.
+15-02-2020 12:37 25 : Service started...
+15-02-2020 12:37 25 : Service runs after every (1) Minutes...
+15-02-2020 12:37 26 : Database Opened Successfully.
+15-02-2020 12:37 26 : Start Sync
+15-02-2020 12:37 52 : Error sending mails: Object reference not set to an instance of an object.
+15-02-2020 12:38 25 : Database Opened Successfully.
+15-02-2020 12:38 25 : Start Sync
+15-02-2020 12:39 25 : Service started...
+15-02-2020 12:39 25 : Service runs after every (1) Minutes...
+15-02-2020 12:39 26 : Database Opened Successfully.
+15-02-2020 12:39 26 : Start Sync
+15-02-2020 12:40 03 : Error sending mails: Object reference not set to an instance of an object.
+15-02-2020 12:40 25 : Database Opened Successfully.
+15-02-2020 12:40 25 : Start Sync
+15-02-2020 12:42 06 : Service started...
+15-02-2020 12:42 06 : Service runs after every (1) Minutes...
+15-02-2020 12:42 07 : Database Opened Successfully.
+15-02-2020 12:42 07 : Start Sync
+15-02-2020 12:42 44 : Error sending mails: Object reference not set to an instance of an object.
+15-02-2020 12:43 06 : Database Opened Successfully.
+15-02-2020 12:43 06 : Start Sync
+15-02-2020 12:43 10 : Error sending mails: Object reference not set to an instance of an object.
+15-02-2020 12:44 06 : Database Opened Successfully.
+15-02-2020 12:44 06 : Start Sync
+15-02-2020 01:03 48 : Service started...
+15-02-2020 01:03 48 : Service runs after every (1) Minutes...
+15-02-2020 01:03 48 : Database Opened Successfully.
+15-02-2020 01:03 48 : Start Sync
+15-02-2020 01:05 13 : Database Opened Successfully.
+15-02-2020 01:05 13 : Start Sync
+15-02-2020 01:08 21 : Service started...
+15-02-2020 01:08 22 : Service runs after every (1) Minutes...
+15-02-2020 01:08 26 : Database Opened Successfully.
+15-02-2020 01:08 26 : Start Sync
+15-02-2020 01:09 11 : Error sending mails: Incorrect syntax near 'd1'.
+15-02-2020 01:12 41 : Service started...
+15-02-2020 01:12 41 : Service runs after every (1) Minutes...
+15-02-2020 01:12 42 : Database Opened Successfully.
+15-02-2020 01:12 42 : Start Sync
+15-02-2020 01:12 47 : Error sending mails: Incorrect syntax near 'd1'.
+15-02-2020 01:13 43 : Database Opened Successfully.
+15-02-2020 01:13 43 : Start Sync
+15-02-2020 01:13 48 : Error sending mails: Incorrect syntax near 'd1'.
+15-02-2020 01:14 43 : Database Opened Successfully.
+15-02-2020 01:14 43 : Start Sync
+15-02-2020 01:14 45 : Error sending mails: Incorrect syntax near 'd1'.
+15-02-2020 01:16 37 : Database Opened Successfully.
+15-02-2020 01:16 37 : Start Sync
+15-02-2020 01:16 39 : Error sending mails: Incorrect syntax near 'd1'.
+15-02-2020 01:16 41 : Database Opened Successfully.
+15-02-2020 01:16 41 : Start Sync
+15-02-2020 01:16 43 : Error sending mails: Incorrect syntax near 'd1'.
+15-02-2020 01:17 45 : Database Opened Successfully.
+15-02-2020 01:17 45 : Start Sync
+15-02-2020 01:17 48 : Error sending mails: Incorrect syntax near 'd1'.
+15-02-2020 01:18 58 : Database Opened Successfully.
+15-02-2020 01:18 58 : Start Sync
+15-02-2020 01:20 28 : Service started...
+15-02-2020 01:20 28 : Service runs after every (1) Minutes...
+15-02-2020 01:20 28 : Database Opened Successfully.
+15-02-2020 01:20 28 : Start Sync
+15-02-2020 01:22 34 : Error sending mails: Object reference not set to an instance of an object.
+15-02-2020 01:22 34 : Start Sync
+15-02-2020 01:23 09 : Error Opening Database >> Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=21016; handshake=3; 
+15-02-2020 01:23 09 : Service will EXIT...
+15-02-2020 05:02 34 : Service started...
+15-02-2020 05:02 34 : Service runs after every (1) Minutes...
+15-02-2020 05:02 34 : Database Opened Successfully.
+15-02-2020 05:02 34 : Start Sync
+15-02-2020 05:03 38 : Database Opened Successfully.
+15-02-2020 05:03 39 : Start Sync
+15-02-2020 05:05 02 : Database Opened Successfully.
+15-02-2020 05:05 02 : Start Sync
+15-02-2020 05:05 45 : End Sync
+15-02-2020 05:05 46 : Database Opened Successfully.
+15-02-2020 05:05 46 : Start Sync

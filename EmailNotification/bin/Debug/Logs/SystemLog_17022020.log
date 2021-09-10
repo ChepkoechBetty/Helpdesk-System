@@ -1,0 +1,499 @@
+17-02-2020 09:09 23 : Service started...
+17-02-2020 09:09 23 : Service runs after every (1) Minutes...
+17-02-2020 09:09 25 : Database Opened Successfully.
+17-02-2020 09:09 25 : Start Sync
+17-02-2020 09:10 38 : Database Opened Successfully.
+17-02-2020 09:10 41 : Start Sync
+17-02-2020 09:11 55 : Database Opened Successfully.
+17-02-2020 09:11 55 : Start Sync
+17-02-2020 09:13 14 : Database Opened Successfully.
+17-02-2020 09:13 14 : Start Sync
+17-02-2020 09:44 15 : Service started...
+17-02-2020 09:44 15 : Service runs after every (1) Minutes...
+17-02-2020 09:44 19 : Database Opened Successfully.
+17-02-2020 09:44 19 : Start Sync
+17-02-2020 09:45 21 : Database Opened Successfully.
+17-02-2020 09:45 21 : Start Sync
+17-02-2020 09:49 16 : Service started...
+17-02-2020 09:49 16 : Service runs after every (1) Minutes...
+17-02-2020 09:49 17 : Database Opened Successfully.
+17-02-2020 09:49 17 : Start Sync
+17-02-2020 09:49 33 : Error sending mails: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+17-02-2020 09:53 31 : Database Opened Successfully.
+17-02-2020 09:53 32 : Start Sync
+17-02-2020 10:08 09 : Database Opened Successfully.
+17-02-2020 10:08 10 : Start Sync
+17-02-2020 10:09 25 : Database Opened Successfully.
+17-02-2020 10:09 27 : Start Sync
+17-02-2020 10:10 16 : Database Opened Successfully.
+17-02-2020 10:10 19 : Start Sync
+17-02-2020 10:14 07 : Service started...
+17-02-2020 10:14 07 : Service runs after every (1) Minutes...
+17-02-2020 10:14 07 : Database Opened Successfully.
+17-02-2020 10:14 07 : Start Sync
+17-02-2020 10:14 51 : Error sending mails: Failure sending mail.
+17-02-2020 10:16 24 : Database Opened Successfully.
+17-02-2020 10:16 24 : Start Sync
+17-02-2020 10:16 48 : Error sending mails: Failure sending mail.
+17-02-2020 10:17 25 : Database Opened Successfully.
+17-02-2020 10:17 25 : Start Sync
+17-02-2020 10:20 31 : Database Opened Successfully.
+17-02-2020 10:20 31 : Start Sync
+17-02-2020 01:14 19 : Service started...
+17-02-2020 01:14 19 : Service runs after every (1) Minutes...
+17-02-2020 01:14 19 : Database Opened Successfully.
+17-02-2020 01:14 19 : Start Sync
+17-02-2020 01:15 20 : Database Opened Successfully.
+17-02-2020 01:15 22 : Start Sync
+17-02-2020 01:16 28 : Database Opened Successfully.
+17-02-2020 01:16 28 : Start Sync
+17-02-2020 01:16 41 : Error sending mails: Failure sending mail.
+17-02-2020 01:16 44 : Error sending mails: Failure sending mail.
+17-02-2020 01:18 13 : Error sending mails: Failure sending mail.
+17-02-2020 01:18 13 : Database Opened Successfully.
+17-02-2020 01:18 13 : Start Sync
+17-02-2020 01:19 13 : Database Opened Successfully.
+17-02-2020 01:19 13 : Start Sync
+17-02-2020 02:28 41 : Service started...
+17-02-2020 02:28 41 : Service runs after every (1) Minutes...
+17-02-2020 02:28 41 : Database Opened Successfully.
+17-02-2020 02:28 41 : Start Sync
+17-02-2020 02:29 11 : End Sync
+17-02-2020 02:29 41 : Database Opened Successfully.
+17-02-2020 02:29 41 : Start Sync
+17-02-2020 02:29 41 : End Sync
+17-02-2020 02:30 41 : Database Opened Successfully.
+17-02-2020 02:30 41 : Start Sync
+17-02-2020 02:31 11 : End Sync
+17-02-2020 02:31 41 : Database Opened Successfully.
+17-02-2020 02:31 41 : Start Sync
+17-02-2020 02:31 41 : End Sync
+17-02-2020 02:32 41 : Database Opened Successfully.
+17-02-2020 02:32 41 : Start Sync
+17-02-2020 02:32 41 : End Sync
+17-02-2020 02:33 41 : Database Opened Successfully.
+17-02-2020 02:33 41 : Start Sync
+17-02-2020 02:33 41 : End Sync
+17-02-2020 02:34 41 : Database Opened Successfully.
+17-02-2020 02:34 41 : Start Sync
+17-02-2020 02:34 41 : End Sync
+17-02-2020 02:35 41 : Database Opened Successfully.
+17-02-2020 02:35 41 : Start Sync
+17-02-2020 02:35 41 : End Sync
+17-02-2020 02:36 41 : Database Opened Successfully.
+17-02-2020 02:36 41 : Start Sync
+17-02-2020 02:36 41 : End Sync
+17-02-2020 02:37 41 : Database Opened Successfully.
+17-02-2020 02:37 41 : Start Sync
+17-02-2020 02:37 41 : End Sync
+17-02-2020 02:38 41 : Database Opened Successfully.
+17-02-2020 02:38 41 : Start Sync
+17-02-2020 02:38 41 : End Sync
+17-02-2020 02:39 41 : Database Opened Successfully.
+17-02-2020 02:39 41 : Start Sync
+17-02-2020 02:39 41 : End Sync
+17-02-2020 02:40 41 : Database Opened Successfully.
+17-02-2020 02:40 41 : Start Sync
+17-02-2020 02:40 41 : End Sync
+17-02-2020 02:41 41 : Database Opened Successfully.
+17-02-2020 02:41 41 : Start Sync
+17-02-2020 02:41 41 : End Sync
+17-02-2020 02:42 41 : Database Opened Successfully.
+17-02-2020 02:42 41 : Start Sync
+17-02-2020 02:42 41 : End Sync
+17-02-2020 02:43 41 : Database Opened Successfully.
+17-02-2020 02:43 41 : Start Sync
+17-02-2020 02:43 41 : End Sync
+17-02-2020 02:44 41 : Database Opened Successfully.
+17-02-2020 02:44 41 : Start Sync
+17-02-2020 02:44 41 : End Sync
+17-02-2020 02:45 41 : Database Opened Successfully.
+17-02-2020 02:45 41 : Start Sync
+17-02-2020 02:45 41 : End Sync
+17-02-2020 02:46 41 : Database Opened Successfully.
+17-02-2020 02:46 41 : Start Sync
+17-02-2020 02:46 41 : End Sync
+17-02-2020 02:47 41 : Database Opened Successfully.
+17-02-2020 02:47 41 : Start Sync
+17-02-2020 02:47 41 : End Sync
+17-02-2020 02:48 41 : Database Opened Successfully.
+17-02-2020 02:48 41 : Start Sync
+17-02-2020 02:48 41 : End Sync
+17-02-2020 02:49 41 : Database Opened Successfully.
+17-02-2020 02:49 41 : Start Sync
+17-02-2020 02:49 41 : End Sync
+17-02-2020 02:50 41 : Database Opened Successfully.
+17-02-2020 02:50 41 : Start Sync
+17-02-2020 02:50 41 : End Sync
+17-02-2020 02:51 41 : Database Opened Successfully.
+17-02-2020 02:51 41 : Start Sync
+17-02-2020 02:51 41 : End Sync
+17-02-2020 02:52 41 : Database Opened Successfully.
+17-02-2020 02:52 41 : Start Sync
+17-02-2020 02:52 41 : End Sync
+17-02-2020 02:53 41 : Database Opened Successfully.
+17-02-2020 02:53 41 : Start Sync
+17-02-2020 02:53 41 : End Sync
+17-02-2020 02:54 41 : Database Opened Successfully.
+17-02-2020 02:54 41 : Start Sync
+17-02-2020 02:54 41 : End Sync
+17-02-2020 02:55 41 : Database Opened Successfully.
+17-02-2020 02:55 41 : Start Sync
+17-02-2020 02:55 41 : End Sync
+17-02-2020 02:56 41 : Database Opened Successfully.
+17-02-2020 02:56 41 : Start Sync
+17-02-2020 02:56 41 : End Sync
+17-02-2020 02:57 41 : Database Opened Successfully.
+17-02-2020 02:57 41 : Start Sync
+17-02-2020 02:57 41 : End Sync
+17-02-2020 02:58 41 : Database Opened Successfully.
+17-02-2020 02:58 41 : Start Sync
+17-02-2020 02:58 41 : End Sync
+17-02-2020 02:59 41 : Database Opened Successfully.
+17-02-2020 02:59 41 : Start Sync
+17-02-2020 02:59 41 : End Sync
+17-02-2020 03:00 41 : Database Opened Successfully.
+17-02-2020 03:00 41 : Start Sync
+17-02-2020 03:00 41 : End Sync
+17-02-2020 03:01 41 : Database Opened Successfully.
+17-02-2020 03:01 41 : Start Sync
+17-02-2020 03:01 41 : End Sync
+17-02-2020 03:02 41 : Database Opened Successfully.
+17-02-2020 03:02 41 : Start Sync
+17-02-2020 03:02 41 : End Sync
+17-02-2020 03:03 41 : Database Opened Successfully.
+17-02-2020 03:03 41 : Start Sync
+17-02-2020 03:03 41 : End Sync
+17-02-2020 03:04 41 : Database Opened Successfully.
+17-02-2020 03:04 41 : Start Sync
+17-02-2020 03:04 41 : End Sync
+17-02-2020 03:05 41 : Database Opened Successfully.
+17-02-2020 03:05 41 : Start Sync
+17-02-2020 03:05 41 : End Sync
+17-02-2020 03:06 41 : Database Opened Successfully.
+17-02-2020 03:06 41 : Start Sync
+17-02-2020 03:06 41 : End Sync
+17-02-2020 03:07 41 : Database Opened Successfully.
+17-02-2020 03:07 41 : Start Sync
+17-02-2020 03:07 41 : End Sync
+17-02-2020 03:08 41 : Database Opened Successfully.
+17-02-2020 03:08 41 : Start Sync
+17-02-2020 03:08 41 : End Sync
+17-02-2020 03:09 41 : Database Opened Successfully.
+17-02-2020 03:09 41 : Start Sync
+17-02-2020 03:09 41 : End Sync
+17-02-2020 03:10 41 : Database Opened Successfully.
+17-02-2020 03:10 41 : Start Sync
+17-02-2020 03:10 41 : End Sync
+17-02-2020 03:11 41 : Database Opened Successfully.
+17-02-2020 03:11 41 : Start Sync
+17-02-2020 03:11 41 : End Sync
+17-02-2020 03:12 41 : Database Opened Successfully.
+17-02-2020 03:12 41 : Start Sync
+17-02-2020 03:12 41 : End Sync
+17-02-2020 03:13 41 : Database Opened Successfully.
+17-02-2020 03:13 41 : Start Sync
+17-02-2020 03:13 41 : End Sync
+17-02-2020 03:14 41 : Database Opened Successfully.
+17-02-2020 03:14 41 : Start Sync
+17-02-2020 03:14 41 : End Sync
+17-02-2020 03:15 41 : Database Opened Successfully.
+17-02-2020 03:15 41 : Start Sync
+17-02-2020 03:15 41 : End Sync
+17-02-2020 03:16 41 : Database Opened Successfully.
+17-02-2020 03:16 41 : Start Sync
+17-02-2020 03:16 41 : End Sync
+17-02-2020 03:17 41 : Database Opened Successfully.
+17-02-2020 03:17 41 : Start Sync
+17-02-2020 03:17 42 : End Sync
+17-02-2020 03:18 41 : Database Opened Successfully.
+17-02-2020 03:18 41 : Start Sync
+17-02-2020 03:18 41 : End Sync
+17-02-2020 03:19 41 : Database Opened Successfully.
+17-02-2020 03:19 41 : Start Sync
+17-02-2020 03:19 41 : End Sync
+17-02-2020 03:20 41 : Database Opened Successfully.
+17-02-2020 03:20 42 : Start Sync
+17-02-2020 03:20 42 : End Sync
+17-02-2020 03:21 41 : Database Opened Successfully.
+17-02-2020 03:21 41 : Start Sync
+17-02-2020 03:21 41 : End Sync
+17-02-2020 03:22 41 : Database Opened Successfully.
+17-02-2020 03:22 42 : Start Sync
+17-02-2020 03:22 42 : End Sync
+17-02-2020 03:23 41 : Database Opened Successfully.
+17-02-2020 03:23 42 : Start Sync
+17-02-2020 03:23 42 : End Sync
+17-02-2020 03:24 42 : Database Opened Successfully.
+17-02-2020 03:24 42 : Start Sync
+17-02-2020 03:24 42 : End Sync
+17-02-2020 03:25 42 : Database Opened Successfully.
+17-02-2020 03:25 42 : Start Sync
+17-02-2020 03:25 42 : End Sync
+17-02-2020 03:26 42 : Database Opened Successfully.
+17-02-2020 03:26 42 : Start Sync
+17-02-2020 03:26 42 : End Sync
+17-02-2020 03:27 42 : Database Opened Successfully.
+17-02-2020 03:27 42 : Start Sync
+17-02-2020 03:27 42 : End Sync
+17-02-2020 03:28 42 : Database Opened Successfully.
+17-02-2020 03:28 42 : Start Sync
+17-02-2020 03:28 42 : End Sync
+17-02-2020 03:29 42 : Database Opened Successfully.
+17-02-2020 03:29 42 : Start Sync
+17-02-2020 03:29 42 : End Sync
+17-02-2020 03:30 42 : Database Opened Successfully.
+17-02-2020 03:30 42 : Start Sync
+17-02-2020 03:30 42 : End Sync
+17-02-2020 03:31 42 : Database Opened Successfully.
+17-02-2020 03:31 42 : Start Sync
+17-02-2020 03:31 42 : End Sync
+17-02-2020 03:32 42 : Database Opened Successfully.
+17-02-2020 03:32 42 : Start Sync
+17-02-2020 03:32 42 : End Sync
+17-02-2020 03:33 42 : Database Opened Successfully.
+17-02-2020 03:33 42 : Start Sync
+17-02-2020 03:33 42 : End Sync
+17-02-2020 03:34 42 : Database Opened Successfully.
+17-02-2020 03:34 42 : Start Sync
+17-02-2020 03:34 42 : End Sync
+17-02-2020 03:35 42 : Database Opened Successfully.
+17-02-2020 03:35 42 : Start Sync
+17-02-2020 03:35 42 : End Sync
+17-02-2020 03:36 42 : Database Opened Successfully.
+17-02-2020 03:36 42 : Start Sync
+17-02-2020 03:36 42 : End Sync
+17-02-2020 03:37 42 : Database Opened Successfully.
+17-02-2020 03:37 42 : Start Sync
+17-02-2020 03:37 42 : End Sync
+17-02-2020 03:38 42 : Database Opened Successfully.
+17-02-2020 03:38 42 : Start Sync
+17-02-2020 03:38 42 : End Sync
+17-02-2020 03:39 42 : Database Opened Successfully.
+17-02-2020 03:39 42 : Start Sync
+17-02-2020 03:39 42 : End Sync
+17-02-2020 03:40 42 : Database Opened Successfully.
+17-02-2020 03:40 42 : Start Sync
+17-02-2020 03:40 42 : End Sync
+17-02-2020 03:41 42 : Database Opened Successfully.
+17-02-2020 03:41 42 : Start Sync
+17-02-2020 03:41 42 : End Sync
+17-02-2020 03:42 42 : Database Opened Successfully.
+17-02-2020 03:42 42 : Start Sync
+17-02-2020 03:42 42 : End Sync
+17-02-2020 03:43 42 : Database Opened Successfully.
+17-02-2020 03:43 42 : Start Sync
+17-02-2020 03:43 42 : End Sync
+17-02-2020 03:44 42 : Database Opened Successfully.
+17-02-2020 03:44 42 : Start Sync
+17-02-2020 03:44 42 : End Sync
+17-02-2020 03:45 42 : Database Opened Successfully.
+17-02-2020 03:45 42 : Start Sync
+17-02-2020 03:45 42 : End Sync
+17-02-2020 03:46 42 : Database Opened Successfully.
+17-02-2020 03:46 42 : Start Sync
+17-02-2020 03:46 42 : End Sync
+17-02-2020 03:47 42 : Database Opened Successfully.
+17-02-2020 03:47 42 : Start Sync
+17-02-2020 03:47 42 : End Sync
+17-02-2020 03:48 42 : Database Opened Successfully.
+17-02-2020 03:48 42 : Start Sync
+17-02-2020 03:48 42 : End Sync
+17-02-2020 03:49 42 : Database Opened Successfully.
+17-02-2020 03:49 42 : Start Sync
+17-02-2020 03:49 42 : End Sync
+17-02-2020 03:50 42 : Database Opened Successfully.
+17-02-2020 03:50 42 : Start Sync
+17-02-2020 03:50 42 : End Sync
+17-02-2020 03:51 42 : Database Opened Successfully.
+17-02-2020 03:51 42 : Start Sync
+17-02-2020 03:51 42 : End Sync
+17-02-2020 03:52 42 : Database Opened Successfully.
+17-02-2020 03:52 42 : Start Sync
+17-02-2020 03:52 42 : End Sync
+17-02-2020 03:53 42 : Database Opened Successfully.
+17-02-2020 03:53 42 : Start Sync
+17-02-2020 03:53 42 : End Sync
+17-02-2020 03:54 42 : Database Opened Successfully.
+17-02-2020 03:54 42 : Start Sync
+17-02-2020 03:54 42 : End Sync
+17-02-2020 03:55 42 : Database Opened Successfully.
+17-02-2020 03:55 42 : Start Sync
+17-02-2020 03:55 42 : End Sync
+17-02-2020 03:56 42 : Database Opened Successfully.
+17-02-2020 03:56 42 : Start Sync
+17-02-2020 03:56 42 : End Sync
+17-02-2020 03:57 42 : Database Opened Successfully.
+17-02-2020 03:57 42 : Start Sync
+17-02-2020 03:57 42 : End Sync
+17-02-2020 03:58 42 : Database Opened Successfully.
+17-02-2020 03:58 42 : Start Sync
+17-02-2020 03:58 42 : End Sync
+17-02-2020 03:59 42 : Database Opened Successfully.
+17-02-2020 03:59 42 : Start Sync
+17-02-2020 03:59 42 : End Sync
+17-02-2020 04:00 42 : Database Opened Successfully.
+17-02-2020 04:00 42 : Start Sync
+17-02-2020 04:00 42 : End Sync
+17-02-2020 04:01 42 : Database Opened Successfully.
+17-02-2020 04:01 42 : Start Sync
+17-02-2020 04:01 42 : End Sync
+17-02-2020 04:02 42 : Database Opened Successfully.
+17-02-2020 04:02 42 : Start Sync
+17-02-2020 04:02 42 : End Sync
+17-02-2020 04:03 42 : Database Opened Successfully.
+17-02-2020 04:03 42 : Start Sync
+17-02-2020 04:03 42 : End Sync
+17-02-2020 04:04 42 : Database Opened Successfully.
+17-02-2020 04:04 42 : Start Sync
+17-02-2020 04:04 42 : End Sync
+17-02-2020 04:05 42 : Database Opened Successfully.
+17-02-2020 04:05 42 : Start Sync
+17-02-2020 04:05 42 : End Sync
+17-02-2020 04:06 42 : Database Opened Successfully.
+17-02-2020 04:06 42 : Start Sync
+17-02-2020 04:06 42 : End Sync
+17-02-2020 04:07 42 : Database Opened Successfully.
+17-02-2020 04:07 42 : Start Sync
+17-02-2020 04:07 42 : End Sync
+17-02-2020 04:08 42 : Database Opened Successfully.
+17-02-2020 04:08 42 : Start Sync
+17-02-2020 04:08 42 : End Sync
+17-02-2020 04:09 42 : Database Opened Successfully.
+17-02-2020 04:09 42 : Start Sync
+17-02-2020 04:09 42 : End Sync
+17-02-2020 04:10 42 : Database Opened Successfully.
+17-02-2020 04:10 42 : Start Sync
+17-02-2020 04:10 42 : End Sync
+17-02-2020 04:11 42 : Database Opened Successfully.
+17-02-2020 04:11 42 : Start Sync
+17-02-2020 04:11 42 : End Sync
+17-02-2020 04:12 42 : Database Opened Successfully.
+17-02-2020 04:12 42 : Start Sync
+17-02-2020 04:12 42 : End Sync
+17-02-2020 04:13 42 : Database Opened Successfully.
+17-02-2020 04:13 42 : Start Sync
+17-02-2020 04:13 42 : End Sync
+17-02-2020 04:14 42 : Database Opened Successfully.
+17-02-2020 04:14 42 : Start Sync
+17-02-2020 04:14 42 : End Sync
+17-02-2020 04:15 42 : Database Opened Successfully.
+17-02-2020 04:15 42 : Start Sync
+17-02-2020 04:15 42 : End Sync
+17-02-2020 04:16 42 : Database Opened Successfully.
+17-02-2020 04:16 42 : Start Sync
+17-02-2020 04:16 42 : End Sync
+17-02-2020 04:17 42 : Database Opened Successfully.
+17-02-2020 04:17 42 : Start Sync
+17-02-2020 04:17 42 : End Sync
+17-02-2020 04:18 42 : Database Opened Successfully.
+17-02-2020 04:18 42 : Start Sync
+17-02-2020 04:18 42 : End Sync
+17-02-2020 04:19 42 : Database Opened Successfully.
+17-02-2020 04:19 42 : Start Sync
+17-02-2020 04:19 42 : End Sync
+17-02-2020 04:20 42 : Database Opened Successfully.
+17-02-2020 04:20 42 : Start Sync
+17-02-2020 04:20 42 : End Sync
+17-02-2020 04:21 42 : Database Opened Successfully.
+17-02-2020 04:21 42 : Start Sync
+17-02-2020 04:21 42 : End Sync
+17-02-2020 04:22 42 : Database Opened Successfully.
+17-02-2020 04:22 42 : Start Sync
+17-02-2020 04:22 42 : End Sync
+17-02-2020 04:23 42 : Database Opened Successfully.
+17-02-2020 04:23 42 : Start Sync
+17-02-2020 04:23 42 : End Sync
+17-02-2020 04:24 42 : Database Opened Successfully.
+17-02-2020 04:24 42 : Start Sync
+17-02-2020 04:24 42 : End Sync
+17-02-2020 04:25 42 : Database Opened Successfully.
+17-02-2020 04:25 42 : Start Sync
+17-02-2020 04:25 42 : End Sync
+17-02-2020 04:26 42 : Database Opened Successfully.
+17-02-2020 04:26 42 : Start Sync
+17-02-2020 04:26 42 : End Sync
+17-02-2020 04:27 42 : Database Opened Successfully.
+17-02-2020 04:27 42 : Start Sync
+17-02-2020 04:27 42 : End Sync
+17-02-2020 04:28 42 : Database Opened Successfully.
+17-02-2020 04:28 42 : Start Sync
+17-02-2020 04:28 42 : End Sync
+17-02-2020 04:29 42 : Database Opened Successfully.
+17-02-2020 04:29 42 : Start Sync
+17-02-2020 04:29 42 : End Sync
+17-02-2020 04:30 42 : Database Opened Successfully.
+17-02-2020 04:30 42 : Start Sync
+17-02-2020 04:30 42 : End Sync
+17-02-2020 04:31 42 : Database Opened Successfully.
+17-02-2020 04:31 42 : Start Sync
+17-02-2020 04:31 42 : End Sync
+17-02-2020 04:32 42 : Database Opened Successfully.
+17-02-2020 04:32 42 : Start Sync
+17-02-2020 04:32 42 : End Sync
+17-02-2020 04:33 42 : Database Opened Successfully.
+17-02-2020 04:33 42 : Start Sync
+17-02-2020 04:33 42 : End Sync
+17-02-2020 04:34 42 : Database Opened Successfully.
+17-02-2020 04:34 42 : Start Sync
+17-02-2020 04:34 42 : End Sync
+17-02-2020 04:35 42 : Database Opened Successfully.
+17-02-2020 04:35 42 : Start Sync
+17-02-2020 04:35 42 : End Sync
+17-02-2020 04:36 42 : Database Opened Successfully.
+17-02-2020 04:36 42 : Start Sync
+17-02-2020 04:36 42 : End Sync
+17-02-2020 04:37 42 : Database Opened Successfully.
+17-02-2020 04:37 42 : Start Sync
+17-02-2020 04:37 42 : End Sync
+17-02-2020 04:38 42 : Database Opened Successfully.
+17-02-2020 04:38 42 : Start Sync
+17-02-2020 04:38 42 : End Sync
+17-02-2020 04:39 42 : Database Opened Successfully.
+17-02-2020 04:39 42 : Start Sync
+17-02-2020 04:39 42 : End Sync
+17-02-2020 04:40 42 : Database Opened Successfully.
+17-02-2020 04:40 42 : Start Sync
+17-02-2020 04:40 42 : End Sync
+17-02-2020 04:41 42 : Database Opened Successfully.
+17-02-2020 04:41 42 : Start Sync
+17-02-2020 04:41 42 : End Sync
+17-02-2020 04:42 42 : Database Opened Successfully.
+17-02-2020 04:42 42 : Start Sync
+17-02-2020 04:42 42 : End Sync
+17-02-2020 04:43 42 : Database Opened Successfully.
+17-02-2020 04:43 42 : Start Sync
+17-02-2020 04:43 42 : End Sync
+17-02-2020 04:44 42 : Database Opened Successfully.
+17-02-2020 04:44 42 : Start Sync
+17-02-2020 04:44 42 : End Sync
+17-02-2020 04:45 42 : Database Opened Successfully.
+17-02-2020 04:45 42 : Start Sync
+17-02-2020 04:45 42 : End Sync
+17-02-2020 04:46 42 : Database Opened Successfully.
+17-02-2020 04:46 42 : Start Sync
+17-02-2020 04:46 42 : End Sync
+17-02-2020 04:47 42 : Database Opened Successfully.
+17-02-2020 04:47 42 : Start Sync
+17-02-2020 04:47 42 : End Sync
+17-02-2020 04:48 42 : Database Opened Successfully.
+17-02-2020 04:48 42 : Start Sync
+17-02-2020 04:48 42 : End Sync
+17-02-2020 04:49 42 : Database Opened Successfully.
+17-02-2020 04:49 42 : Start Sync
+17-02-2020 04:49 42 : End Sync
+17-02-2020 04:50 42 : Database Opened Successfully.
+17-02-2020 04:50 42 : Start Sync
+17-02-2020 04:50 42 : End Sync
+17-02-2020 04:51 42 : Database Opened Successfully.
+17-02-2020 04:51 42 : Start Sync
+17-02-2020 04:51 42 : End Sync
+17-02-2020 04:52 42 : Database Opened Successfully.
+17-02-2020 04:52 42 : Start Sync
+17-02-2020 04:52 43 : End Sync
+17-02-2020 04:53 42 : Database Opened Successfully.
+17-02-2020 04:53 42 : Start Sync
+17-02-2020 04:53 42 : End Sync
+17-02-2020 04:54 42 : Database Opened Successfully.
+17-02-2020 04:54 42 : Start Sync
+17-02-2020 04:54 42 : End Sync
