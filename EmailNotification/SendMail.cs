@@ -1,4 +1,5 @@
-﻿using Helpdesk.Data;
+﻿using EAGetMail;
+using Helpdesk.Data;
 using Helpdesk.Models;
 using Helpdesk.Services;
 using System;
@@ -17,6 +18,7 @@ namespace EmailNotification
     {
         List<string> UserId=new List<string>();
         List<int> ids =new List<int>();
+        int ClientId;
         List<string> Emails=new List<string>();
         protected HelpdeskContext db = new HelpdeskContext();
         static readonly string connString = "Data Source=DESKTOP-AKKIQ4U;Initial Catalog=Helpdesk;Persist Security Info=True;User ID=sa;Password=chep@610;MultipleActiveResultSets=True";
@@ -42,6 +44,57 @@ namespace EmailNotification
         {
             if (OpenConnection() == 0) { return; }
             LogData("Start Sync");
+            MailServer oServer = new MailServer("pop.xeran.com", "support@spasys.com", "Kingori123;", ServerProtocol.Imap4);
+            MailClient oClient = new MailClient("TryIt");
+
+            oServer.SSLConnection = true;
+            oServer.Port = 993;
+
+            //oServer.SSLConnection = false;
+            //oServer.Port = 143;
+
+            oClient.GetMailInfosParam.GetMailInfosOptions = GetMailInfosOptionType.NewOnly;
+            try
+            {
+                oClient.Connect(oServer);
+                MailInfo[] infos = oClient.GetMailInfos();
+
+                for (int i = infos.Length - 1; i > 0; i--)
+                {
+                    MailInfo info = infos[i];
+                    Mail oMail = oClient.GetMail(info);
+                    var count = oMail.Attachments.ToList().Count;
+                    for (int j = 0; j < count; j++)
+                    {
+                        //oMail.Attachments[j].SaveAs(Server.MapPath("~/Inbox") + "\\" + oMail.Attachments[j].Name, true); // true for overWrite file
+                    }
+                    SqlCommand cd;
+                    SqlDataReader dRder;
+                    string qy;
+                    string[] c = oMail.From.Address.Split('@');
+                    string[] clientname = c[1].Split('.');
+                    string name = clientname[0];
+                    SqlCommand sc;
+                    SqlDataReader sd;
+                    string s;
+                    s = "Select * From clients where REPLACE(Name, ' ', '')=" + "'" + name + "'";
+                    sc = new SqlCommand(s, conn);
+                    sd = sc.ExecuteReader();
+                    while (sd.Read())
+                    {
+                        ClientId = Convert.ToInt32(sd["Id"]);
+
+                    }
+                    sd.Close();
+                    qy = "Insert into tickets(userid,clientid,branchid,tickettypeid,subject,emaillist,details,ticketpriorityid,productid,ticketstatus,datereceived,departmentid) values('9cbc56bd-7426-450d-8df2-fccd753ce56a'," + ClientId + ",0,1,'" + oMail.Subject + "',NULL,'" + oMail.TextBody + "',0,11,1,'" + oMail.SentDate + "',0)";
+                    cd = new SqlCommand(qy, conn);
+                    cd.ExecuteNonQuery();
+                }
+            }
+            catch (Exception e)
+            {
+                LogData("error reading emails" + e.Message);
+            }
             try
             {
                 SqlCommand command;
@@ -99,7 +152,7 @@ namespace EmailNotification
                         msg.To.Add(email);
                         msg.Subject = "Due Ticket";
                         msg.Body = "The ticket you were assigned is due.Login to Spasys Helpdesk and check.";
-                        msg.From = new MailAddress("email@apsissolutions.com"); // Your Email Id
+                        msg.From = new System.Net.Mail.MailAddress("email@apsissolutions.com"); // Your Email Id
                         SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
                         SmtpClient client1 = new SmtpClient("smtp.mail.yahoo.com", 465);
                         client.UseDefaultCredentials = true;
